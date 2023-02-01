@@ -1,0 +1,2 @@
+# Azuredevops
+for Devops practice
